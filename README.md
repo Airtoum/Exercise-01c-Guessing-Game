@@ -15,4 +15,7 @@ None
 
 ## Created by 
 Aidan Lesh
+
+HELPFUL TIP:
+DO 4 AND 5 LAST
 ```
